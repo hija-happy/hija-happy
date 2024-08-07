@@ -17,17 +17,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hija_happy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hija_happy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hija-happy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hija-happy" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20385615/hija-happy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hija-happy" height="30" width="40" /></a>
-<a href="https://fb.com/meena kshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="meena kshi" height="30" width="40" /></a>
 <a href="https://instagram.com/i_am_a_wanderlust_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_a_wanderlust_" height="30" width="40" /></a>
+<a href="https://twitter.com/hija_happy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hija_happy" height="30" width="40" /></a>
+<a href="https://fb.com/meena kshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="meena kshi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@JilHaps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jilhaps" height="30" width="40" /></a>
+<a href="https://in.pinterest.com/hija_happy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="hija_happy" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/hija_happy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hija-happy" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/happy-coder-hijx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="happy-coder-hijx" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/hija_happy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hija-happy" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/hija-happy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="hija-happy" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/hija-happy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hija-happy" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
