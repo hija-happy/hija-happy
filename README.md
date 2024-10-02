@@ -2,7 +2,7 @@
 <h3 align="center">Creative Developer and Visual Artist</h3>
 
 # About Me:
-🔭 I’m currently working on Portfolio App<br><br>🌱 I’m currently learning React<br><br>👯 I’m looking to collaborate on Web Developement Projects<br><br>📫 How to reach me hijahappy2004@gmail.com
+🔭 I’m currently working on an Ethereum Blockchain App<br><br>🌱 I’m learning Solidity <br><br>👯 I’m looking to collaborate on Web3 Developement Projects<br><br>📫 How to reach me hijahappy2004@gmail.com
 
 # Connect with me:
 <p align="left">
